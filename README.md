@@ -3,9 +3,11 @@ This repo is a record of my "reinventing the wheel" learning journey. I do this 
 
 Most of the projects are from codecrafters.io and You guys should have a look!
 
+btw, I use typescript to finish these projects
+
 ## Completed Projects
 - http server
 
 ## Upcoming Projects
 - interpreter
-- shell
+- cli
